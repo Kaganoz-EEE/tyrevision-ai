@@ -1,0 +1,6 @@
+{
+  "name": "TyreVision AI",
+  "description": "Ömrünü Tamamlamış Lastik (ÖTL) görsel ve kimyasal analiziyle piroliz fırını için en yüksek katma değerli rCB kalitesini sağlayan yapay zeka karar destek sistemi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
